@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dc44ff1a-0c15-4366-be41-82419f441e5a" name="andantesoft root" url="http://14.63.218.199">
+        <fileTransfer host="14.63.218.199" port="22" rootFolder="/usr/local/tomcat7/webapps" accessType="SFTP" password="dfdedfc5dfc4dfc3dfc9df9bdf93df92df9b" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
