@@ -26,4 +26,7 @@
     </option>
     <option name="cloneParentDir" value="D:\work\idea_u" />
   </component>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="hg.exe" />
+  </component>
 </application>
